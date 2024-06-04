@@ -1,0 +1,38 @@
+# .NET Core
+bin/
+obj/
+
+# Compiled DLLs and executables
+*.dll
+*.exe
+
+# NuGet packages
+*.nupkg
+packages/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.vscode/
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+AnyCPU/
+*.cache
+*.log
+*.vspscc
+*.vssscc
+build/
+msbuild.log
+msbuild.err
+*.userprefs
+
+# Visual Studio
+/.vs/
